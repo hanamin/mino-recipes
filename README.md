@@ -1,0 +1,1 @@
+This project is to build a basic HTML site for the purpose of practicing making a webpage from scratch.  This project will be iteratively improved over the course of the TOP curriculum.
