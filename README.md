@@ -1,1 +1,3 @@
-This project is to build a basic HTML site for the purpose of practicing making a webpage from scratch.  This project will be iteratively improved over the course of the TOP curriculum.
+The purpose of this repo is to compile amazing recipes from my childhood.  Guaranteed you will never eat better than this ever again, or your money back.*
+
+*you'll never get it back
